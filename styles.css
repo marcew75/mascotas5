@@ -1,0 +1,13 @@
+body {
+    background-color: #af50e5; /* Color celeste agua */
+}
+.title-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 50px;
+}
+.title-container img {
+    margin-left: 15px;
+    height: 120px; /* Ajusta el tamaño de la imagen */
+}
